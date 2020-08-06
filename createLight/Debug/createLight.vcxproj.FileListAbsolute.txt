@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\createLight\Debug\createLight.mll
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\createLight\Debug\createLight.pdb

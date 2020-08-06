@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\syntax\Debug\syntax.mll
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\syntax\Debug\syntax.pdb

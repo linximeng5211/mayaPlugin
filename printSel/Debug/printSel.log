@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  printSel.cpp
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\printSel\printSel.cpp(18,20): warning C4018: “<”: 有符号/无符号不匹配
+  pluginMain.cpp
+  正在生成代码...
+    正在创建库 Debug\printSel.lib 和对象 Debug\printSel.exp
+  printSel.vcxproj -> C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\printSel\Debug\printSel.mll

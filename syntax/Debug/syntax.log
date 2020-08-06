@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  syntax.cpp
+  pluginMain.cpp
+  正在生成代码...
+    正在创建库 Debug\syntax.lib 和对象 Debug\syntax.exp
+  syntax.vcxproj -> C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\syntax\Debug\syntax.mll

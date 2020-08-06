@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\Debug\rivet.mll
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\Debug\rivet.pdb
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\Debug\rivet.mll.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\Debug\NativeCodeAnalysis.read.1.tlog

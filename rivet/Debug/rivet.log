@@ -1,0 +1,302 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  rivet.cpp
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(37,29): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(37,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(37,17): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  pluginMain.cpp
+  正在编译...
+  正在生成代码...
+    正在创建库 Debug\rivet.lib 和对象 Debug\rivet.exp
+  rivet.vcxproj -> C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\Debug\rivet.mll
+C:\Software\Maya2018\include\maya\MStatus.h(95): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator bool 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(103): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(103): warning C26812: 枚举类型“Autodesk::Maya::OpenMaya20180000::MStatus::MStatusCode”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。
+C:\Software\Maya2018\include\maya\MStatus.h(110): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::operator!= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(189): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(202): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MStatus 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MStatus.h(202): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::MStatus 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(217): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(234): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(248): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(262): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator!= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(276): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::operator!= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(288): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::error 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(300): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::statusCode 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(313): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::set 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(327): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::setSuccess 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MStatus.h(338): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MStatus::clear 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFnNumericData.h(51): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MDataHandle.h(270): warning C26495: 未初始化变量 Autodesk::Maya::OpenMaya20180000::MDataHandle::f_data。始终初始化成员变量(type.6)。
+C:\Software\Maya2018\include\maya\MDataHandle.h(270): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MDataHandle 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MDataHandle.h(270): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MDataHandle::MDataHandle 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MDataHandle.h(275): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MDataHandle::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MArrayDataHandle.h(91): warning C26495: 未初始化变量 Autodesk::Maya::OpenMaya20180000::MArrayDataHandle::fIsNull。始终初始化成员变量(type.6)。
+C:\Software\Maya2018\include\maya\MArrayDataHandle.h(91): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MArrayDataHandle 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MArrayDataHandle.h(91): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MArrayDataHandle::MArrayDataHandle 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MArrayDataHandle.h(96): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MArrayDataHandle::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MDagPath.h(70): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MDagPath.h(74): warning C26812: 枚举类型“Autodesk::Maya::OpenMaya20180000::MDAGDrawOverrideInfo::DrawOverrideDisplayType”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。
+C:\Software\Maya2018\include\maya\MDagPath.h(76): warning C26812: 枚举类型“Autodesk::Maya::OpenMaya20180000::MDAGDrawOverrideInfo::DrawOverrideLOD”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。
+C:\Software\Maya2018\include\maya\MFnDependencyNode.h(53): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(164): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(178): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MPoint 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MPoint.h(178): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(192): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(206): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mpoint.h(206): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MPoint.h(207): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(208): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(209): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(210): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(206): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(220): warning C26429: 符号 f 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mpoint.h(220): warning C26485: 表达式 f: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MPoint.h(221): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(222): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(223): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(224): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(220): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(236): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(250): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(264): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::MPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(287): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(309): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(337): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(362): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(391): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator[] 可以声明为 noexcept (f.6)。
+c:\software\maya2018\include\maya\mpoint.h(417): warning C26485: 表达式 dest: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MPoint.h(421): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(422): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(423): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(424): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+c:\software\maya2018\include\maya\mpoint.h(439): warning C26485: 表达式 dest: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MPoint.h(443): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(444): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(445): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(446): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MPoint.h(462): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator+= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(480): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator-= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(669): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(833): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(848): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(863): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(878): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(893): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MPoint.h(908): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(186): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(199): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MFloatVector 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(199): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(217): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(232): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(245): warning C26429: 符号 f 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mfloatvector.h(245): warning C26485: 表达式 f: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(246): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(247): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(248): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(245): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(263): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mfloatvector.h(263): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(264): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(265): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(266): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(263): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(276): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(295): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::MFloatVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(317): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(336): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(361): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(383): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(405): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(441): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(442): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(443): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(439): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(457): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(458): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(459): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(455): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(473): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(474): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(475): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(471): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(489): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(490): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(491): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(487): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(503): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(521): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(522): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(523): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(519): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(625): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator/= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(682): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator+= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(698): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator-= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(726): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator* 可以声明为 noexcept (f.6)。
+c:\software\maya2018\include\maya\mfloatvector.h(740): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(744): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(745): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(746): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(760): warning C26496: 仅分配一次变量 lensq，请将其标记为 const (con.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(762): warning C26496: 仅分配一次变量 factor，请将其标记为 const (con.4)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(785): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::length 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatVector.h(799): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatVector::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(170): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(184): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MFloatPoint 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(184): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(203): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(217): warning C26429: 符号 f 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mfloatpoint.h(217): warning C26485: 表达式 f: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(218): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(219): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(220): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(221): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(217): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(236): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mfloatpoint.h(236): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(237): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(238): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(239): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(240): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(236): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(252): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(266): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(285): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::MFloatPoint 可以声明为 noexcept (f.6)。
+c:\software\maya2018\include\maya\mfloatpoint.h(359): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(364): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(365): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(366): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(367): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(381): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(403): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(431): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(456): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(485): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator[] 可以声明为 noexcept (f.6)。
+c:\software\maya2018\include\maya\mfloatpoint.h(506): warning C26485: 表达式 dest: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(510): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(511): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(512): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(513): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+c:\software\maya2018\include\maya\mfloatpoint.h(528): warning C26485: 表达式 dest: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(532): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(533): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(534): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(535): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(548): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator+= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(563): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator-= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(635): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(635): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(635): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(648): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(648): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(648): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(661): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(661): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(661): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(674): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(674): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(674): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(700): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(700): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(700): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(725): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator== 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(889): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(889): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(889): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(887): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(904): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(904): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(904): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(902): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(919): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(919): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(919): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(917): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(934): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(934): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(934): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(932): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(947): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(964): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(964): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(964): warning C26493: 请勿使用 C 样式转换(type.4)。
+C:\Software\Maya2018\include\maya\MFloatPoint.h(962): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MFloatPoint::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(191): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(204): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MVector 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MVector.h(204): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(217): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(232): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(245): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mvector.h(245): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MVector.h(246): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(247): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(248): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(245): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(258): warning C26429: 符号 f 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mvector.h(258): warning C26485: 表达式 f: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MVector.h(259): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(260): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(261): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(258): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(271): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(284): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::MVector 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(303): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(319): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(341): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(360): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(379): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(407): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator* 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(417): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(431): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(444): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(457): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(470): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(483): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator*= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(568): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator/= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(613): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator+= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(635): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator-= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(651): warning C26496: 仅分配一次变量 lensq，请将其标记为 const (con.4)。
+C:\Software\Maya2018\include\maya\MVector.h(653): warning C26496: 仅分配一次变量 factor，请将其标记为 const (con.4)。
+C:\Software\Maya2018\include\maya\MVector.h(674): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::length 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MVector.h(704): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MVector::operator== 可以声明为 noexcept (f.6)。
+c:\software\maya2018\include\maya\mvector.h(732): warning C26485: 表达式 dest: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MVector.h(736): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(737): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MVector.h(738): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(155): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(169): warning C26432: 如果定义或删除类型 class Autodesk::Maya::OpenMaya20180000::MColor 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Software\Maya2018\include\maya\MColor.h(169): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::MColor 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(186): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::MColor 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(202): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mcolor.h(202): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MColor.h(203): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(204): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(205): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(202): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::MColor 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(216): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::MColor 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(232): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::operator= 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(253): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(279): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::operator() 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(302): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(325): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::operator[] 可以声明为 noexcept (f.6)。
+C:\Software\Maya2018\include\maya\MColor.h(346): warning C26429: 符号 d 永远不会进行 nullness 测试，可将其标记为 not_null (f.23)。
+c:\software\maya2018\include\maya\mcolor.h(346): warning C26485: 表达式 d: 没有数组要进行指针转型(bounds.3)。
+C:\Software\Maya2018\include\maya\MColor.h(348): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(349): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(350): warning C26481: 请勿使用指针算法。改用 span (bounds.1)。
+C:\Software\Maya2018\include\maya\MColor.h(346): warning C26440: 函数 Autodesk::Maya::OpenMaya20180000::MColor::get 可以声明为 noexcept (f.6)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(23): warning C26495: 未初始化变量 rivet::red。始终初始化成员变量(type.6)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(23): warning C26455: 默认构造函数可能不会 throw。请将其声明为 noexcept (f.6)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(27): warning C26443: 重写析构函数不应使用显式 'override' 或 'virtual' 说明符(c.128)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(27): warning C26432: 如果定义或删除类型 class rivet 中的任何默认操作，请全部定义或删除它们(c.21)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(39): warning C26433: 函数 "rivet::isUndoable" 应标有 "override" (c.128)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(39): warning C26440: 函数 rivet::isUndoable 可以声明为 noexcept (f.6)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.h(45): warning C26409: 避免显式调用 new 和 delete，请改用 std::make_unique<T> (r.11)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\pluginMain.cpp(23): warning C26496: 仅分配一次变量 status，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\pluginMain.cpp(44): warning C26496: 仅分配一次变量 status，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(5): warning C26496: 仅分配一次变量 status，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(3): warning C26433: 函数 "rivet::doIt" 应标有 "override" (c.128)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(28): warning C26496: 仅分配一次变量 status，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(30): warning C26496: 仅分配一次变量 numVertex，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(26): warning C26433: 函数 "rivet::redoIt" 应标有 "override" (c.128)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(52): warning C26496: 仅分配一次变量 status，请将其标记为 const (con.4)。
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\rivet\rivet.cpp(50): warning C26433: 函数 "rivet::undoIt" 应标有 "override" (c.128)。

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\HelloMayaPlugin\Debug\HelloMayaPlugin.mll
+C:\Users\Administrator\Desktop\MayaPlugin\HelloMayaPlugin\HelloMayaPlugin\Debug\HelloMayaPlugin.pdb
